@@ -10,7 +10,7 @@ The application features an expanded help menu that covers a comprehensive list 
 #
 ### Related Links
 
-[WIndows](https://github.com/sourceduty/Windows)
+[Windows](https://github.com/sourceduty/Windows)
 <br>
 [Python Boss](https://github.com/sourceduty/Python_Boss)
 <br>
