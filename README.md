@@ -8,6 +8,9 @@ PowerShell Boss is a versatile and intuitive GUI application designed to bring t
 The application features an expanded help menu that covers a comprehensive list of PowerShell commands, giving users insight into each command's functionality and usage. This makes PowerShell Boss not just a tool for executing commands but also an educational resource that enhances a user’s knowledge of PowerShell capabilities. Furthermore, the dark mode theme and organized layout enhance the user experience, providing a comfortable and efficient workspace. With its balance of accessibility and functionality, PowerShell Boss is a robust tool for managing Windows systems effectively.
 
 #
+![Nerd](https://github.com/user-attachments/assets/11142447-b712-426c-be36-6961c3676e96)
+
+#
 ### Related Links
 
 [Windows](https://github.com/sourceduty/Windows)
