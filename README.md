@@ -7,6 +7,57 @@ PowerShell Boss is a versatile and intuitive GUI application designed to bring t
 
 The application features an expanded help menu that covers a comprehensive list of PowerShell commands, giving users insight into each command's functionality and usage. This makes PowerShell Boss not just a tool for executing commands but also an educational resource that enhances a user’s knowledge of PowerShell capabilities. Furthermore, the dark mode theme and organized layout enhance the user experience, providing a comfortable and efficient workspace. With its balance of accessibility and functionality, PowerShell Boss is a robust tool for managing Windows systems effectively.
 
+```
+PowerShell
+
+    ├── Cmdlets
+    │   ├── Built-in Cmdlets
+    │   ├── Custom Cmdlets
+    │   ├── External Cmdlets
+    │   └── Functions
+    │
+    ├── Scripts
+    │   ├── PowerShell Scripts (.ps1)
+    │   ├── Modules (.psm1)
+    │   └── Profiles
+    │
+    ├── Providers
+    │   ├── FileSystem
+    │   ├── Registry
+    │   └── Environment
+    │
+    ├── Objects
+    │   ├── Arrays
+    │   ├── Strings
+    │   ├── Dates
+    │   └── Custom Objects
+    │
+    ├── Variables
+    │   ├── Global
+    │   ├── Local
+    │   └── Scoped
+    │
+    ├── Pipelines
+    │   ├── Input
+    │   ├── Output
+    │   └── Object Manipulation
+    │
+    ├── Error Handling
+    │   ├── Try/Catch/Finally
+    │   ├── Error Variables
+    │   └── Error Action Preferences
+    │
+    ├── Remote Sessions
+    │   ├── Remote Commands
+    │   ├── Remoting Protocols
+    │   └── SSH
+    │
+    └── Help System
+        ├── Get-Help
+        ├── Get-Command
+        └── Get-Documentation
+```
+
 #
 ![Nerd](https://github.com/user-attachments/assets/11142447-b712-426c-be36-6961c3676e96)
 
@@ -18,6 +69,8 @@ The application features an expanded help menu that covers a comprehensive list 
 [Python Boss](https://github.com/sourceduty/Python_Boss)
 <br>
 [Python](https://github.com/sourceduty/Python)
+<br>
+[Terminal](https://github.com/sourceduty/Terminal)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
